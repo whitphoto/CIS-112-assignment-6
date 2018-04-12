@@ -1,0 +1,17 @@
+               REGISTRATION REPORT
+
+VEHICLE
+ CLASS            NAME          WEIGHT      FEE
+
+   AA     JOHN GOOD              2,300  $   345.0
+   OO     BETTY GOOD             1,000  $   500.0
+   NN     MIKE GOOD              3,000  $   990.0
+   NN     MIKE GOOD              3,000  $   990.0
+   NN     MIKE GOOD              3,000  $   990.0
+   II     TERESA GOOD            2,005  $    20.0
+   BB     BARBARA GOOD           3,002  $   690.4
+   II     DAVID GOOD             2,005  $    20.0
+   MM     BILL GOOD              4,006  $ 1,802.7
+   OO     LISA GOOD              2,500  $ 1,250.0
+   NN     JOYCE GOOD             2,800  $   924.0
+   NN     JOYCE GOOD             2,800  $   924.0
